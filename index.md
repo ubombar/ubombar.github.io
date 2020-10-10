@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to The Project Page of "Mask and Social Distance Detection Using Computer Vision"
 
 You can use the [editor on GitHub](https://github.com/ubombar/ubombar.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
