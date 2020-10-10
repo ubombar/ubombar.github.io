@@ -8,7 +8,7 @@ Covid-19 changed our lives drastically. The pandemic puts many lives in danger a
 * Batuhan Tosyalı [github](https://github.com/Batucan2601)
 * Berk Güler [github](https://github.com/Wondrous27)
 * İrem Seven [github](https://github.com/iremsvn)
-* Selen Uysal [github](https://github.com/tobeannounced)
+* Selen Uysal [github](https://github.com/selenuysal)
 * Ufuk Bombar [github](https://github.com/ubombar)
 
 ## Project Reports
