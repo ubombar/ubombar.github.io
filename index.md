@@ -2,6 +2,7 @@
 
 Covid-19 changed our lives drastically. The pandemic puts many lives in danger and still continues to do so. We aim to protect people about the issues regarding mask usage and social distancing during Covid-19.
 
+
 ## Our Team Members
 
 * Batuhan Tosyalı [github](https://github.com/Batucan2601)
