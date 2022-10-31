@@ -1,3 +1,9 @@
+---
+layout: default
+title: Color
+nav_order: 2
+---
+
 # EdgeNet Components
 This is a draft documentation that explains the components of EdgeNet.
 
