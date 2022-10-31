@@ -1,15 +1,24 @@
-# EdgeNet Tutorials
-## Hello World Tutorial
 # EdgeNet Components
-## Tenant and Tenant Request
-## Selective Deployment
-## Subnamespace
-## Slice and Slice Claim
-## Node Contribution
-## Tenant Resource Quota
-## Role and Cluster Role Request
-## Node Labeler
-## Admission Control
-## VPN Peer
-## Notifier
+This is a draft documentation that explains the components of EdgeNet.
 
+## Tenant and Tenant Request
+
+## Selective Deployment
+
+## Subnamespace
+
+## Slice and Slice Claim
+
+## Node Contribution
+
+## Tenant Resource Quota
+
+## Role and Cluster Role Request
+
+## Node Labeler
+
+## Admission Control
+
+## VPN Peer
+
+## Notifier
