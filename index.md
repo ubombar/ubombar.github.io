@@ -1,3 +1,3 @@
 # Ufuk Bombar's Personal Site
 
-I am Ufuk, and here is my journey.
+Currently not used, go to [bombar.dev](https://bombar.dev) instead
