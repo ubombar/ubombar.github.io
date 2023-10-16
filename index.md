@@ -3,6 +3,6 @@ layout: default
 nav_order: 1
 ---
 
-# Ufuk Bombar's Personal Site
+# Ufuk BOMBAR's old website
 
-Currently not used, go to [bombar.dev](https://bombar.dev) instead
+[CV](./cv.pdf)
