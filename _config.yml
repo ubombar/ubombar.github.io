@@ -1,8 +1,8 @@
 name: Ufuk Bombar
-title: null
+title: Page of Ufuk BOMBAR
 
 remote_theme: pmarsceill/just-the-docs
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jemoji
+- jekyll-feed
+- jekyll-seo-tag
+- jemoji
