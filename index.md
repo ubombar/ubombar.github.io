@@ -16,7 +16,7 @@ nav_order: 1
 Linux, Neovim, and hiking enthusiast.
 
 📍 Paris, France  
-📧 ufuk+cv@bombar.dev
+📧 contact@bombar.dev
 🌍 [LinkedIn](https://www.linkedin.com/in/ubombar) · [GitHub](https://github.com/ubombar) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=M3TGOikAAAAJ)
 
 ---
