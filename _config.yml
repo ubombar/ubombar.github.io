@@ -1,8 +1,85 @@
+# Site settings
+title: Ufuk BOMBAR
 name: Ufuk Bombar
-title: Page of Ufuk BOMBAR
+description: Computer Engineer & Internet Measurements Researcher
 
-remote_theme: pmarsceill/just-the-docs
+# URL settings
+url: "https://blog.bombar.dev"  # main (canonical) domain
+baseurl: ""                     # leave empty
+
+# Theme
+remote_theme: alshedivat/al-folio
+
+# Plugins
 plugins:
-- jekyll-feed
-- jekyll-seo-tag
-- jemoji
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jemoji
+  - jekyll-sitemap
+
+# Navigation
+navbar_links:
+  - title: "Home"
+    url: /
+  - title: "CV"
+    url: /cv/
+  - title: "Projects"
+    url: /projects/
+  - title: "Research"
+    url: /research/
+  - title: "Contact"
+    url: /contact/
+
+# Author details
+author:
+  name: "Ufuk Bombar"
+  email: "contact@bombar.dev"
+  github: "ubombar"
+  linkedin: "ubombar"
+  location: "Paris, France"
+  interests: ["Internet Measurements", "Kubernetes", "Distributed Systems", "AI", "Open Source"]
+
+# Social
+social_links:
+  - { platform: "github",   user_url: "https://github.com/ubombar" }
+  - { platform: "linkedin", user_url: "https://linkedin.com/in/ubombar" }
+  - { platform: "google-scholar", user_url: "https://scholar.google.com/citations?hl=en&user=M3TGOikAAAAJ" }
+
+# Collections
+collections:
+  publications:
+    output: true
+  projects:
+    output: true
+  teaching:
+    output: true
+  news:
+    output: true
+
+# Defaults for posts and collections
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Ufuk Bombar"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "publications"
+    values:
+      layout: "publication"
+
+# Markdown and build options
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  input: GFM
+
+# Exclusions
+exclude: ["README.md", "Gemfile", "Gemfile.lock", "node_modules", "_site"]
