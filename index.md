@@ -6,18 +6,18 @@ nav_order: 1
 
 # **Ufuk BOMBAR**
 
-[📄 CV (PDF)](https://ufukbombar.com/cv.pdf)
+[📄 CV (PDF)](https://blog.bombar.dev/cv.pdf)
 
 ---
 
 ## 👋 About
 
-Computer engineer and **Internet measurements researcher**.  
+**Internet Measurements Researcher** and **Software Engineer**  
 Linux, Neovim, and hiking enthusiast.
 
 📍 Paris, France  
 📧 ufukbombar@gmail.com  
-🌍 [LinkedIn](https://linkedin.com/in/ufukbombar) · [GitHub](https://github.com/ufukbombar) · [Google Research](https://research.google.com/)
+🌍 [LinkedIn](https://www.linkedin.com/in/ubombar) · [GitHub](https://github.com/ubombar) · [Google Scholar](https://scholar.google.com/citations?hl=en&user=M3TGOikAAAAJ)
 
 ---
 
